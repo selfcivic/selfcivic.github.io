@@ -126,7 +126,7 @@ on this website's repo at: [https://github.com/selfcivic/selfcivic.github.io/iss
 
 - Pucioasa, DB, Romania
   - [Issues](https://github.com/selfcivic/location-pucioasa/issues)
-  - Project board
+  - [Project board](https://github.com/selfcivic/location-pucioasa/projects/1)
 - Priboiu, Branesti, DB, Romania
   - [Issues](https://github.com/selfcivic/location-priboiu/issues)
   - [Project board](https://github.com/selfcivic/location-priboiu/projects/1)
