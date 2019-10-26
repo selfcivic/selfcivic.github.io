@@ -124,7 +124,12 @@ on this website's repo at: [https://github.com/selfcivic/selfcivic.github.io/iss
 
 ## Current known communities
 
-- [Pucioasa, DB, Romania](https://github.com/selfcivic/location-pucioasa)
+- Pucioasa, DB, Romania
+  - [Issues](https://github.com/selfcivic/location-pucioasa/issues)
+  - Project board
+- Priboiu, Branesti, DB, Romania
+  - [Issues](https://github.com/selfcivic/location-priboiu/issues)
+  - [Project board](https://github.com/selfcivic/location-priboiu/projects/1)
 - To submit a new location for your community [please follow these steps](https://github.com/selfcivic/locations/tree/master)
 
 Happy self management of your communities!
